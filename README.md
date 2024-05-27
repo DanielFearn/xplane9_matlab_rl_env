@@ -4,4 +4,4 @@ This repo contains an X-Plane 9 interface class for MatLab that allows reading a
 
 Some hints to make sure you have X-Plane set up for this to work are included in the files. More in-depth documentation on how everything works can be found in the 4th year final report I wrote for this, if you have access to that.
 
-If you have any problems getting this code to work, please do contact me.
+If you have any problems getting this code to work, please do contact me. If you use this code for research, please cite this repo.
